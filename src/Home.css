@@ -1,0 +1,9 @@
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 20%;
+}
+
+ul h3 {
+    display: inline;
+}
