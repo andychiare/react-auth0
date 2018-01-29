@@ -12,7 +12,7 @@ In order to run the project you need to [register to Auth0 services](https://aut
 npm install
 ```
 
-The type the following command to run the application:
+Then type the following command to run the application:
 
 ```shell
 npm start
