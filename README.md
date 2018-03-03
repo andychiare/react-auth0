@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It is a *Single Page Application* client for the [netcore2-Auth0](https://github.com/andychiare/netcore2-auth0) Web API project. It integrates [Auth0](https://auth0.com/) security services in order to access the book list provided by the associated Web API project.
 
+It is the companion code for the article [Developing Web Apps with ASP.NET Core 2.0 and React - Part 2](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-2/).
+
 ## Running the project
 
 In order to run the project you need to [register to Auth0 services](https://auth0.com/signup), get the security configuration data and put them into the *Auth0Config.js* file. The [netcore2-Auth0](https://github.com/andychiare/netcore2-auth0) Web API project should be configured and running, too. Then type in a console window the following command to install the project dependencies in the *node.js* environment:
